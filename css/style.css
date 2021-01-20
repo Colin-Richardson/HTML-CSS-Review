@@ -8,7 +8,7 @@ body {
 /*============= TOP BAR HEADER =============*/
 
 .top-bar {
-  background: #7aaec4;
+  background: #000507;
   height: 2.8rem;
   padding: .5rem 0;
 }
@@ -38,12 +38,12 @@ body {
 }
 
 .nav-link {
-  color: #5b5555 !important;
+  color: #131212 !important;
 }
 
 .nav-link.active,
 .nav-link:hover {
-  color: #4981b3 !important;
+  color: #f0f1f3 !important;
 }
 
 /*============= CAROUSEL =============*/
@@ -83,7 +83,7 @@ body {
 }
 
 .border-primary {
-  border-top: .2rem solid #4981b3 !important;
+  border-top: .2rem solid #060607 !important;
 }
 
 .carousel-caption h3 {
@@ -173,7 +173,7 @@ footer .svg-inline--fa:hover {
 
 .socket {
   background-color: #222222;
-  border-top: .1rem solid #4981b3;
+  border-top: .1rem solid #000000;
 }
 
 /*============= MEDIA QUERIES =============*/
